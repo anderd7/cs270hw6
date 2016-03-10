@@ -79,7 +79,7 @@ a particular event by id (passed via the params hash):
 
 And again, that variable becomes available for use in the corresponding show_event.html.erb file.
 
-Fill in the view file for each GET request method as appropriate so that the correct information
+Fill in the view file for each "show" action as appropriate so that the correct information
 is displayed.  You can view your handiwork by firing up the Rails development server
 and visiting the various addresses you incorporated in the routes.rb file.
 
