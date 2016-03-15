@@ -1,0 +1,13 @@
+<table>
+    <tr>
+        <th>Name</th>
+        <th>E-mail</th>
+    </tr>
+    <%@events.participants.each do |u|%>
+    <tr>
+        <td><%=u.first_name%></td>
+        <td><%=u.last_name%></td>
+        <td><%=u.email%></td>
+        <%end%>
+    </tr>
+</table>

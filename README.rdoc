@@ -1,3 +1,8 @@
+#David Anderson, CS 270, Assignment 6
+#Description:  Creating seed data, creating and filling the views.
+#Input: Seed data
+#Output: Basic HTML page can be viewed by using the various addresses from the routes file to display the seed data.
+
 == CS 270 Assignment 6
 
 In this assignment, we'll now make use of the model associations and controllers
